@@ -45,3 +45,9 @@ group :development do
   gem 'awesome_print'
   gem 'pry-rails'
 end
+
+gem 'activeadmin', github: 'gregbell/active_admin'
+
+gem 'jquery-ui-rails', '~> 4.2.1'
+
+
